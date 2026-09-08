@@ -24,7 +24,7 @@ Durante o curso, abordaremos como manter, corrigir, adaptar e evoluir sistemas d
 Cada laboratório está organizado em uma pasta dedicada contendo a explicação teórica, exemplos de código e o desafio prático de entrega:
 
 * 🟢 **[Lab 1: Tipos de Manutenção em Software](./lab1/README.md)** — Conceitos fundamentais de manutenção e prática em Python.
-* ⚪ *Lab 2: (Em breve)*
+* 🟢 **[Lab 2: Documentação, Procedimentos e Plano de Manutenção com IA](./lab2/README.md)** — Planejamento, documentação técnica e uso de IA para manutenção.
 * ⚪ *Lab 3: (Em breve)*
 
 ---
