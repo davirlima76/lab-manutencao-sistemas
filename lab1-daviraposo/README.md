@@ -243,18 +243,6 @@ Dessa forma, foi possível aplicar na prática diferentes estratégias de manute
 
 ---
 
-## 📬 Entrega
-
-O arquivo final deve ser salvo como:
-
-```text
-sistema_loja_resolvido.py
-```
-
-A entrega deve ser enviada para:
-
-**[eduardo.hernandes@docente.senai.br](mailto:eduardo.hernandes@docente.senai.br)**
-
 ### Assunto
 
 ```text
