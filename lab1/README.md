@@ -81,4 +81,3 @@ Sua tarefa como desenvolvedor(a) responsável pela manutenção é realizar **4 
 4. 🟣 **Manutenção Evolutiva:** 
    O gerente solicitou uma nova funcionalidade no sistema. Crie uma nova função chamada `repor_estoque(cod_prod, qtd)` que permita adicionar novas unidades de um produto existente ao estoque.
 
----
