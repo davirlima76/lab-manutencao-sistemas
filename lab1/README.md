@@ -82,12 +82,3 @@ Sua tarefa como desenvolvedor(a) responsável pela manutenção é realizar **4 
    O gerente solicitou uma nova funcionalidade no sistema. Crie uma nova função chamada `repor_estoque(cod_prod, qtd)` que permita adicionar novas unidades de um produto existente ao estoque.
 
 ---
-
-## 📬 Instruções para Entrega
-
-Após concluir todas as alterações no código:
-
-1. Salve o código final no arquivo `sistema_loja_resolvido.py`.
-2. Escreva um pequeno relatório (pode ser no próprio corpo do e-mail) identificando a linha/trecho alterado para cada um dos 4 tipos de manutenção realizados.
-3. Envie para o e-mail: **`eduardo.hernandes@docente.senai.br`**
-4. **Assunto do e-mail:** `[Manutenção de Sistemas] Entrega Lab 1 - <Seu Nome Completo>`
